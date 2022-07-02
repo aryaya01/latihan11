@@ -41,8 +41,8 @@ CREATE TABLE `calon_siswa` (
 --
 
 INSERT INTO `calon_siswa` (`id`, `nama`, `alamat`, `jenis_kelamin`, `agama`, `sekolah_asal`) VALUES
-(1, 'Junaidi', 'Jln. Pasar Patojo', 'laki-laki', 'Islam', 'Smp 111'),
-(2, 'Hanif', 'Jln. Utara ray', 'laki-laki', 'Kristen', 'SMP Darusalam');
+(1, 'arya', 'mgt', 'laki-laki', 'Islam', 'Smp 40'),
+(2, 'maulana', 'mgt', 'laki-laki', 'Kristen', 'SMp 26');
 
 --
 -- Indexes for dumped tables
